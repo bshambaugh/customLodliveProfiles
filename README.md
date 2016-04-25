@@ -1,0 +1,1 @@
+This is a custom profile for LodLive that displays files that are available from Marmotta locally, and dbpedia remotely. It is backed up here because it allows an individual to perform seamless linked data browsing from data in Marmotta to data in dbpedia.a 
